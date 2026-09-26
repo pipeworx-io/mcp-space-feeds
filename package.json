@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-space-feeds",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Space Feeds MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-be7019e289879af3a8a16755f3e8babe84f3762ae0f5fa744a025060be3c12fb",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-f2b6ae4ccd54ee2828b86ba1cfee38aec97fa6d3d133dc3d91c3234932bff857",
+    "sourceCommit": "d4a9636716f113458bd312e487c065f76548df8c"
   }
 }
