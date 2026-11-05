@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-space-feeds",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Space Feeds MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "space-feeds",
     "gatewaySlug": "space-feeds",
-    "sourceHash": "v1-ce75da5d1622fa241a28cd2a6db701f4c55c37f3c960d7d5330edf23a922cef1",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-77a95f64239418de7cc52e6bdf9c56839df8de7f3b6fdaa5416f4126fe321a3e",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
